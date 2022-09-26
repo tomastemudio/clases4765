@@ -1,0 +1,5 @@
+v8
+Negro
+(6, 'blindados')
+4
+otro valor

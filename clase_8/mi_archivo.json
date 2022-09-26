@@ -1,0 +1,9 @@
+{
+    "motor": "v8",
+    "color": "Negro",
+    "vidrios": [
+        6,
+        "blindados"
+    ],
+    "pasajeros": 4
+}
